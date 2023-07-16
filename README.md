@@ -1,7 +1,3 @@
----
-layout: page
-title: "Hitchens"
----
 
 This repository contains the code for [Surbhi's blog](https://surbhigoel77.github.io/). 
 
